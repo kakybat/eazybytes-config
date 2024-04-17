@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+
+loans:
+  message: "Welcome to EazyBank loans related prod APIs"
+  contact-details:
+    name: "Sarah Brown - Product Owner"
+    email: "sarah@eazybank.com"
+  onCallSupport:
+    -(777)123-1122
+    -(700)432-0011

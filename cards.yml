@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name: "Douglass Thompson - Developer"
+    email: "douglass@eazybank.com"
+  onCallSupport:
+    - (444)419-3413
+    - (443)409-3453

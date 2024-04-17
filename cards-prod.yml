@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs"
+  contact-details:
+    name: "Sarah Brown - Product Owner"
+    email: "sarah@eazybank.com"
+  onCallSupport:
+    -(777)123-1122
+    -(700)432-0011
