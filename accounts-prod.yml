@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs"
+  message: "Welcome to EazyBank accounts related production APIs"
   contactDetails:
     name: "Sarah Brown - Product Owner"
     email: "{cipher}83b10f6b2cf6ea5b56c99ce26d51b8290e570d423a23007f7bbcbcc208a4dd0bc718884202a5c579f7665f5325a36df3"
