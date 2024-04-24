@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to EazyBank loans related production APIs"
+  message: "Welcome to EazyBank loans related prod (hello again) APIs"
   contact-details:
     name: "Sarah Brown - Product Owner"
     email: "sarah@eazybank.com"
